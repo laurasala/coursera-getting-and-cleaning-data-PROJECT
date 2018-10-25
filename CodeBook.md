@@ -76,7 +76,7 @@ Time-domain signals
         timeDomainBodyGyroscopeJerkStandardDeviationY
         timeDomainBodyGyroscopeJerkStandardDeviationZ
 
-    Average and standard deviation of the time-domain magnitude of body acceleration:
+   - Average and standard deviation of the time-domain magnitude of body acceleration:
         timeDomainBodyAccelerometerMagnitudeMean
         timeDomainBodyAccelerometerMagnitudeStandardDeviation
 
