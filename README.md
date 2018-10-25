@@ -2,6 +2,8 @@ Coursera Getting and Cleaning Data course project
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
+The dataset being used is: Human Activity Recognition Using Smartphones
+
 This repository contains the following files:
   
   - run_analysis.R contains all the code to perform the analyses described in the 5 steps.
